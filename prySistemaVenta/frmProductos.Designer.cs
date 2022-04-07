@@ -130,6 +130,7 @@ namespace prySistemaVenta
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(251, 21);
             this.txtPrecio.TabIndex = 9;
+            this.txtPrecio.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // pictureBox7
             // 
@@ -147,10 +148,11 @@ namespace prySistemaVenta
             this.txtNombre.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtNombre.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtNombre.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNombre.Location = new System.Drawing.Point(167, 38);
+            this.txtNombre.Location = new System.Drawing.Point(167, 36);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(251, 21);
             this.txtNombre.TabIndex = 9;
+            this.txtNombre.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // pictureBox6
             // 
@@ -172,6 +174,7 @@ namespace prySistemaVenta
             this.txtNumExistencia.Name = "txtNumExistencia";
             this.txtNumExistencia.Size = new System.Drawing.Size(228, 21);
             this.txtNumExistencia.TabIndex = 9;
+            this.txtNumExistencia.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // pictureBox5
             // 
@@ -200,10 +203,11 @@ namespace prySistemaVenta
             this.txtDescripcion.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtDescripcion.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtDescripcion.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDescripcion.Location = new System.Drawing.Point(991, 111);
+            this.txtDescripcion.Location = new System.Drawing.Point(991, 106);
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(254, 21);
             this.txtDescripcion.TabIndex = 12;
+            this.txtDescripcion.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // pictureBox3
             // 
