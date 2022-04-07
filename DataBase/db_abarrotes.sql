@@ -161,10 +161,9 @@ CREATE TABLE IF NOT EXISTS `tbl_productos` (
 DELETE FROM `tbl_productos`;
 /*!40000 ALTER TABLE `tbl_productos` DISABLE KEYS */;
 INSERT INTO `tbl_productos` (`Producto_Id`, `nombre`, `precio`, `catego_Id`, `numExistencia`, `marca_Id`, `descripcion`) VALUES
-	(1, 'Aceites ooo', 16.00, 9, 6, 6, 'Aceite medio litro'),
 	(2, 'Leche', 18.00, 2, 10, 2, 'Leche de un litro'),
 	(3, 'Coca cola ', 32.00, 5, 24, 1, 'Coca retornable'),
-	(4, 'Takis', 11.00, 4, 12, 17, 'Takis fuego'),
+	(4, 'tttttttt', 11.00, 4, 12, 17, 'Takis fuego'),
 	(5, 'Yogur ', 10.00, 2, 1000, 2, 'Yogor sabor fresa '),
 	(6, 'Pan bimbo', 20.00, 4, 23, 3, 'Bimbo con pan integrado'),
 	(7, 'Papas', 13.00, 3, 6, 5, 'Papas originales'),
@@ -185,7 +184,7 @@ INSERT INTO `tbl_productos` (`Producto_Id`, `nombre`, `precio`, `catego_Id`, `nu
 	(23, 'Aceite', 20.40, 9, 40, 7, 'Crackets original'),
 	(25, 'jkjk', 89.00, 3, 9, 9, 'jkjkjk'),
 	(27, 'Galletas', 20.40, 4, 40, 16, 'Galletas Marinela'),
-	(28, 'opopopopopopo', 20.40, 4, 40, 16, 'Galletas Marinela'),
+	(28, 'Atun', 15.00, 1, 40, 6, 'Atun de agua'),
 	(29, 'opopopopopopo', 20.40, 4, 40, 16, 'Galletas Marinela');
 /*!40000 ALTER TABLE `tbl_productos` ENABLE KEYS */;
 
