@@ -1,5 +1,5 @@
 # CRUD con C#
-Conexión a la base de datos con MySQL, procedimientos almacenados e  implementación del las  operaciones básicas (CRUD)
+Conexión a la base de datos con MySQL, procedimientos almacenados   implementando  las  operaciones básicas de un (CRUD)
 
 *  Create (Crear registros)
 *  Read bzw. Retrieve (Leer registros)
